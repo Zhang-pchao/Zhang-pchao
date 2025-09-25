@@ -3,7 +3,8 @@
 ## 📄 Curriculum Vitae
 
 ### Education
-- **Ph.D. in Energy and Power Engineering**, Center for Combustion Energy, Tsinghua University (2020–2025)
+- **Ph.D. in Energy and Power Engineering, Computational Chemistry**, Center for Combustion Energy, Tsinghua University (2020–2025)
+- **Visiting Ph.D. in Atomic Simulation**, Istituto Italiano di Tecnologia (2022–2023)
 - **B.Eng. in Energy and Power Engineering**, School of Energy and Power Engineering, Huazhong University of Science and Technology (2016–2020)
 
 ### Professional Experience

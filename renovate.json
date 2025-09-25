@@ -1,0 +1,17 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "config:base"
+  ],
+  "automerge": false,
+  "platformAutomerge": false,
+  "labels": ["dependencies"],
+  "assignees": ["Zhang-pchao"],
+  "packageRules": [
+    {
+      "matchManagers": ["github-actions"],
+      "groupName": "GitHub Actions dependencies",
+      "separateMinorPatch": false
+    }
+  ]
+}

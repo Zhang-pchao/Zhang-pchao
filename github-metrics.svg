@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="300" viewBox="0 0 480 300" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub Metrics Placeholder</title>
+  <desc id="desc">Profile metrics will appear here after the GitHub Actions workflow runs.</desc>
+  <rect x="0" y="0" width="480" height="300" fill="#0d1117" rx="16"/>
+  <g fill="#c9d1d9" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif">
+    <text x="40" y="80" font-size="28" font-weight="bold">GitHub Metrics</text>
+    <text x="40" y="130" font-size="16">This SVG is automatically updated by</text>
+    <text x="40" y="160" font-size="16">the lowlighter/metrics action.</text>
+    <text x="40" y="210" font-size="14">Add the METRICS_TOKEN secret and re-run</text>
+    <text x="40" y="235" font-size="14">the workflow to populate detailed stats.</text>
+  </g>
+</svg>

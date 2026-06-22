@@ -1,6 +1,6 @@
 # Pengchao Zhang
 
-Postdoctoral Fellow and Assistant Researcher at the Center for Combustion Energy, Tsinghua University.
+Postdoctoral Fellow at the Center for Combustion Energy, Tsinghua University.
 
 ## Personal Website
 
